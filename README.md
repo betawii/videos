@@ -7,6 +7,6 @@ ChrisplayzYT/BLOX's Beta Wii Archive
 
 fun fact: alot of the "lost" beta wii channel videos, can actually be seen in these videos:
 <br>
-<a href="https://www.youtube.com/watch?v=p6x0H5JEfpQ&t=539s" target=_blank">
+https://www.youtube.com/watch?v=p6x0H5JEfpQ&t=539s
 <br>
-<a href="https://www.youtube.com/watch?v=LW1U2UYNuaQ&t=0s" target=_blank">
+https://www.youtube.com/watch?v=LW1U2UYNuaQ&t=0s
