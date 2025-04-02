@@ -32,7 +32,7 @@ here you see some early internet channel footage:<br>
 https://www.youtube.com/watch?v=JaqkN9Ejgxc&t=832s
 <br>
 (timestamps will be on the wii iwata speaks section of the betawii.github.io website, better videos of the forecast, wii sports, intenert channel can be found on their own pages in the Beta Wii Channels section)
-<br>
+<br><br>
 (or just watch the iwata speaks in london videos in the "Nintendo-Wii-Satoru-Iwata-speaks-in-London" folder here)
 <br>
 
