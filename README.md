@@ -33,10 +33,10 @@ https://www.youtube.com/watch?v=JaqkN9Ejgxc&t=832s
 <br>
 
 <br>
-(or just watch the iwata speaks in london videos in the "Nintendo-Wii-Satoru-Iwata-speaks-in-London" folder here)
+(or just watch the iwata speaks in london videos in the "Nintendo-Wii-Satoru-Iwata-speaks-in-London <a href="https://github.com/betawii/videos/tree/main/a%20mix%20of%20them/Nintendo-Wii-Satoru-Iwata-speaks-in-London">(link)</a>" folder here)
 
 <br><br>
-(timestamps will be on the wii iwata speaks section of the betawii.github.io website, better videos of the forecast, wii sports, intenert channel can be found on their own pages in the Beta Wii Channels section)
+(timestamps will be on the wii iwata speaks section of the betawii.github.io website, better videos of the forecast, wii sports, internet channel can be found on their own pages in the Beta Wii Channels section)
 
 <br><br>
 <br> nintendo.co.jp videos were converted from FLV to MP4 with VLC.
